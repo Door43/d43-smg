@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smg:home|Door43 (smg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smg|d43-smg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smg/archive/master.zip|d43-smg.zip]]
+
+**Recent Changes**
+{{changes>ns = smg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smg|Ethnologue data]]
+
